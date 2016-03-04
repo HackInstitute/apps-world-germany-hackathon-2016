@@ -148,7 +148,7 @@ a:focus {
 }
 
 .menu h1.logo a:hover {
-	color: #03C9A9;
+	color: #D9AC45;
 }
 
 .menu img.logo {
@@ -276,7 +276,7 @@ tg {
 }
 /*Text Green*/
 tgr {
-	color: #03C9A9;
+	color: #D9AC45;
 }
 
 hr {
@@ -333,7 +333,7 @@ input {
 	}
 
 .btn-green {
-	background: #03C9A9;
+	background: #D9AC45;
 	color: white
 }
 
@@ -406,7 +406,7 @@ input {
 }
 
 .section-bg-color {
-	background-color: #03C9A9;
+	background-color: #D9AC45;
 	height: 100%;
 	padding-top: 40px;
 	padding-bottom: 80px;
@@ -446,7 +446,7 @@ input {
 }
 
 .circle-icon .icon {
-	color: #03C9A9;
+	color: #D9AC45;
 	line-height: 120px;
 	text-align: center;
 }
@@ -507,7 +507,7 @@ input {
 }
 
 .price-tag-green {
-	background: #03C9A9;
+	background: #D9AC45;
 	padding-left: 25px;
 	padding-right: 25px;
 	padding-top: 50px;
